@@ -10,10 +10,15 @@ Please feel free to explore the projects and dive into the ones that interest yo
   - Description: This project focuses on developing a web-based application for book shopping.
   - Technologies: HTML, Bootstrap, MySQL, Java
   
-2. Servlet Projecta 
+2. Servlet Projects
 
-  - Description:It includes the ADD and CIRCLE servlets from the 2nd lab manual.
+  - Description: It includes the ADD and CIRCLE servlets from the 2nd lab manual.
   - Technologies: Java
+
+3. Employee Management System
+   
+  - Description: This project focuses on developing a web-based application for managing employees of a certain company.
+  - Technologies: HTML, Bootstrap, MySQL, Java
 
 ## Contributing
 If you would like to contribute to any of the projects or have suggestions for improvements, please follow the standard GitHub workflow:
