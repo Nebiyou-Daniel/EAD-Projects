@@ -5,6 +5,30 @@
 <title>Calculator</title>
 </head>
 <body>
+	<form action="calculate" method="get">
+		
+		Enter 1st Number: <input type="text" name = "num1"> 
+		<br>
+		Enter 2nd Number: <input type="text" name = "num2">
+		
+		<br>
+		Select the Operator:<select id="operator" name="operator" required>
+			<option value="plus">+</option>
+			<option value="minus">-</option>
+			<option value="times">*</option>
+			<option value="over">/</option>	
+			<option value="remainder">%</option>
 
+
+		</select>
+		
+		<br><br>
+
+		<input type="Submit">
+		<br><br>
+
+		<div id="result"></div>		
+		
+	</form>
 </body>
 </html>
