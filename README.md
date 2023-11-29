@@ -19,7 +19,17 @@ Please feel free to explore the projects and dive into the ones that interest yo
    
   - Description: This project focuses on developing a web-based application for managing employees of a certain company.
   - Technologies: HTML, Bootstrap, MySQL, Java
+  - 
+4. Calculator
+   
+  - Description: This project is a calculator that operates only on two numbers.
+  - Technologies: HTML, Java
 
+5. Online Registration System
+   
+  - Description: This project is a simple name, email and password registering web-app.
+  - Technologies: HTML, MySQL, Java, JSP
+    
 ## Contributing
 If you would like to contribute to any of the projects or have suggestions for improvements, please follow the standard GitHub workflow:
 
