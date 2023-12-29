@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/index.css">
+	<link rel="icon" type="image/x-icon" href="">
+	<title>Welcome to Task Master</title>
+</head>
+<body>
+	<div class="hero">
+		<h1>Welcome to Task Master!</h1>
+		<p> A website that enables you to manage your tasks efficiently! </p>
+		<div class="buttons">
+			<button onclick="redirectToLoginPage()">Login</button>
+			<button onclick="redirectToSignupPage()">Signup</button>
+		</div>
+	</div>
+    <script>
+        function redirectToLoginPage() {
+            window.location.href = "loginPage.jsp";
+        }
+        function redirectToSignupPage() {
+            window.location.href = "signupPage.jsp";
+        }
+    </script>
+
+</body>
+</html>
