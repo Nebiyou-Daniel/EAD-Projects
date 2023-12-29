@@ -18,8 +18,8 @@ Please feel free to explore the projects and dive into the ones that interest yo
 3. Employee Management System
    
   - Description: This project focuses on developing a web-based application for managing employees of a certain company.
-  - Technologies: HTML, Bootstrap, MySQL, Java
-  - 
+  - Technologies: HTML, MySQL, Java
+    
 4. Calculator
    
   - Description: This project is a calculator that operates only on two numbers.
@@ -28,6 +28,10 @@ Please feel free to explore the projects and dive into the ones that interest yo
 5. Online Registration System
    
   - Description: This project is a simple name, email and password registering web-app.
+  - Technologies: HTML, MySQL, Java, JSP
+    
+6. Task Management System
+  - Description: This project is a specialized to-do app that stores task details and has basic authentication. It also supports sorting and searching for tasks.
   - Technologies: HTML, MySQL, Java, JSP
     
 ## Contributing
